@@ -20,7 +20,7 @@ Research Interests
 * Insurance Economics
 * Health Economics
 * Causal Inference
-  
+
 Skills
 ======
 * Languages: Chinese (native), English (fluent)
@@ -34,27 +34,17 @@ Working Papers
 
 Publications
 ======
-* Angela Zigarelli, Ziyang Jia, Hyunsun Lee. "Machine-Aided Self-diagnostic Prediction Models for Polycystic Ovary Syndrome: Observational Study." *JMIR Formative Research*, 6(3), e29967. https://doi.org/10.2196/29967
-* Qilong Fu, Qikun Shen, Ziyang Jia. "Cooperative adaptive tracking control for unknown nonlinear multi-agent systems with signal transmission faults." *Circuits, Systems, and Signal Processing*, 39(3), 1335-1352. https://doi.org/10.1007/s00034-019-01211-1
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Angela Zigarelli, Ziyang Jia, Hyunsun Lee. "Machine-Aided Self-diagnostic Prediction Models for Polycystic Ovary Syndrome: Observational Study." *JMIR Formative Research*, 6(3), e29967. [https://doi.org/10.2196/29967](https://doi.org/10.2196/29967)
+* Qilong Fu, Qikun Shen, Ziyang Jia. "Cooperative adaptive tracking control for unknown nonlinear multi-agent systems with signal transmission faults." *Circuits, Systems, and Signal Processing*, 39(3), 1335-1352. [https://doi.org/10.1007/s00034-019-01211-1](https://doi.org/10.1007/s00034-019-01211-1)
+
 Teaching
 ======
-* University of Iowa
-  * Principles of Risk Management and Insurance
-  * Introductory Financial Management
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* **Introductory Financial Management**, University of Iowa
+  * Leading discussions: Spring 2023, Spring 2025
+  * Standalone lecture: Fall 2023
+* **Principles of Risk Management and Insurance**, University of Iowa
+  * Spring 2026
+
 Discussions
 ======
 * "What Does a Public Option Do: Evidence from California" (Evan Saltzman, WRIEC)
