@@ -40,10 +40,13 @@ Publications
 Teaching
 ======
 * **Introductory Financial Management**, University of Iowa
-  * Leading discussions: Spring 2023, Spring 2025
-  * Standalone lecture: Fall 2023
+  * TA: Spring 2023, Spring 2025
+  * Instructor: Fall 2023
 * **Principles of Risk Management and Insurance**, University of Iowa
-  * Spring 2026
+  * TA: Fall 2022
+  * Instructor: Spring 2026
+* **Life and Health Insurance**, University of Iowa
+  * TA: Fall 2025
 
 Discussions
 ======
