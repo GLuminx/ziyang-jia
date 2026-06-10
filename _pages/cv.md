@@ -3,12 +3,13 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_to: /files/cv.pdf
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+<p><a href="{{ '/files/cv.pdf' | relative_url }}" class="btn btn--primary">Download CV (PDF)</a></p>
 
 Education
 ======
