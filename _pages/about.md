@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-
 I am a fourth year Finance PhD candidate at the University of Iowa.
 
 My research areas are insurance economics, health economics and causal inference.
+
+[Here is my CV]({{ '/files/cv.pdf' | relative_url }}).

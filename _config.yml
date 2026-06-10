@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ziyang Jia | Academic Website"
 title_separator          : "-"
-name                     : &name "Ziyang Jia"
+name                     : &name "Ziyang Jia (贾子扬)"
 description              : &description "Ziyang Jia's academic portfolio in insurance and health economics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://gluminx.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "GLuminx/ziyang-jia"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ziyang Jia"
+  name             : "Ziyang Jia (贾子扬)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Finance at the University of Iowa."
   location         : "Iowa City, IA"
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=aRzqzCsAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7532-3718"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
