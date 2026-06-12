@@ -86,6 +86,8 @@ author:
 publication_category:
   working_papers:
     title: 'Working Papers'
+  work_in_progress:
+    title: 'Work in Progress'
   manuscripts:
     title: 'Pre-doc Journal Articles'
 
