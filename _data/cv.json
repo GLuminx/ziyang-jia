@@ -1,152 +1,218 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ziyang Jia",
+    "label": "Ph.D. candidate in Finance (RMI track), University of Iowa",
+    "email": "zijia@uiowa.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://gluminx.github.io/ziyang-jia/",
+    "summary": "",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "S349 Pappajohn Business Building",
+      "postalCode": "52242",
+      "city": "Iowa City",
       "countryCode": "US",
-      "region": ""
+      "region": "IA"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "aRzqzCsAAAAJ",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=aRzqzCsAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0001-7532-3718",
+        "url": "https://orcid.org/0000-0001-7532-3718"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "GLuminx",
+        "url": "https://github.com/GLuminx"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Review Committee",
+      "company": "Eastern Finance Association Annual Meeting",
+      "startDate": "2027",
+      "endDate": "2027",
+      "summary": "Professional service",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Iowa",
+      "area": "Ph.D. in Finance (RMI track)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2027 (expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "UMass Amherst",
+      "area": "M.S. in Statistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "UMass Amherst",
+      "area": "B.B.A. in Finance",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["R"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Generative AI", "LaTeX"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Insurance Economics",
+        "Corporate Finance",
+        "Health Insurance",
+        "Household Finance"
+      ]
+    }
+  ],
   "references": [],
+  "awards": [
+    {
+      "title": "Graduate College Travel Award",
+      "date": "2025–present",
+      "awarder": "University of Iowa",
+      "summary": ""
+    },
+    {
+      "title": "Graduate College Summer Fellowship",
+      "date": "2026",
+      "awarder": "University of Iowa",
+      "summary": ""
+    },
+    {
+      "title": "Graduate College Post-Comprehensive Research Award",
+      "date": "2026",
+      "awarder": "University of Iowa",
+      "summary": ""
+    }
+  ],
+  "workingPapers": [
+    {
+      "name": "Health Insurance and Entrepreneurship Lock",
+      "publisher": "Working paper",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Presentations: Risk Theory Society Seminar (2026), World Risk and Insurance Economics Congress (2025), University of Georgia Risk Management and Insurance PhD Symposium (2025), University of Iowa Brown Bag Seminar (2025, 2024)"
+    },
+    {
+      "name": "Cost Shifting and Competition",
+      "publisher": "With Cameron M. Ellis and Meghan I. Esson",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Presentations: American Risk and Insurance Association Annual Meeting (2026)"
+    },
+    {
+      "name": "Price Regulation, Risk Management and Capital Structure: Evidence from Health Insurers",
+      "publisher": "With Thomas R. Berry-Stoelzle and Cameron M. Ellis",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": ""
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Machine-Aided Self-diagnostic Prediction Models for Polycystic Ovary Syndrome: Observational Study",
+      "publisher": "Angela Zigarelli, Ziyang Jia, Hyunsun Lee. JMIR Formative Research, 6(3), e29967",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.2196/29967",
+      "summary": "Predoctoral publication"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Cooperative adaptive tracking control for unknown nonlinear multi-agent systems with signal transmission faults",
+      "publisher": "Qilong Fu, Qikun Shen, Ziyang Jia. Circuits, Systems, and Signal Processing, 39(3), 1335-1352",
+      "releaseDate": "2020",
+      "website": "https://doi.org/10.1007/s00034-019-01211-1",
+      "summary": "Predoctoral publication"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Bridging the Gap: Automated Machine Learning and Explainable Risk Modeling for Non-Stationary Climate Perils",
+      "event": "Discussion of Orlovsky, L.; American Risk and Insurance Association Annual Meeting",
+      "date": "2026-08",
+      "location": "Orlando, Florida",
+      "description": "Discussion"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "What Does a Public Option Do: Evidence from California",
+      "event": "Discussion of Saltzman, E.; World Risk and Insurance Economics Congress",
+      "date": "2025-08",
+      "location": "Calgary, Canada",
+      "description": "Discussion"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Principles of Risk Management and Insurance",
+      "institution": "University of Iowa",
+      "date": "2026-Spring",
+      "role": "Instructor of Record",
+      "description": "Course evaluation average: 5.1/6.0"
+    },
+    {
+      "course": "Introductory Financial Management",
+      "institution": "University of Iowa",
+      "date": "2023-Fall",
+      "role": "Instructor of Record",
+      "description": "Course evaluation average: 4.9/6.0"
+    },
+    {
+      "course": "Principles of Risk Management and Insurance",
+      "institution": "University of Iowa",
+      "date": "2022-Fall",
+      "role": "Teaching Assistant",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Life and Health Insurance",
+      "institution": "University of Iowa",
+      "date": "2025-Fall",
+      "role": "Teaching Assistant",
       "description": ""
+    },
+    {
+      "course": "Introductory Financial Management",
+      "institution": "University of Iowa",
+      "date": "2023-Spring",
+      "role": "Teaching Assistant",
+      "description": "Also Spring 2025"
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
