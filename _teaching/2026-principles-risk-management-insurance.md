@@ -8,3 +8,5 @@ date: 2026-01-01
 
 * TA: Fall 2022
 * Instructor: Spring 2026
+  * [Syllabus]({{ '/files/principles-rmi-spring-2026-syllabus.pdf' | relative_url }})
+  * [Evaluations]({{ '/files/principles-rmi-spring-2026-evaluations.pdf' | relative_url }})
