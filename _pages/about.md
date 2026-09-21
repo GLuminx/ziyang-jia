@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year Finance PhD candidate at the University of Iowa.
+I am a fifth year Finance PhD candidate at the University of Iowa.
 
 My research areas are insurance economics, corporate finance, health insurance and household finance.
 
