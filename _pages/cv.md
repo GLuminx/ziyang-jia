@@ -33,7 +33,7 @@ Skills
 Working Papers
 ======
 * "Health Insurance and Entrepreneurship Lock"
-  * Presentations: Risk Theory Society Seminar (2026), World Risk and Insurance Economics Congress (2025), University of Georgia Risk Management and Insurance PhD Symposium (2025), University of Iowa Brown Bag Seminar (2025, 2024)
+  * Presentations: Risk Theory Society Seminar (2026), Tsinghua University SEM Finance Seminar (2026), Modern Risk Society PhD Seminar (2026), World Risk and Insurance Economics Congress (2025), University of Georgia Risk Management and Insurance PhD Symposium (2025), University of Iowa Brown Bag Seminar (2025, 2024)
 * "Cost Shifting and Competition" (with Cameron M. Ellis and Meghan I. Esson)
   * Presentations: American Risk and Insurance Association Annual Meeting (2026)
 * "Price Regulation, Risk Management and Capital Structure: Evidence from Health Insurers" (with Thomas R. Berry-Stoelzle and Cameron M. Ellis)
