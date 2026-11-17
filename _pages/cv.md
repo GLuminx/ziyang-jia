@@ -11,6 +11,11 @@ redirect_from:
 
 <p><a href="{{ '/files/cv.pdf' | relative_url }}" class="btn btn--primary">Download CV (PDF)</a></p>
 
+Contact
+======
+* Email: [zijia@uiowa.edu](mailto:zijia@uiowa.edu)
+* Website: [https://gluminx.github.io/ziyang-jia/](https://gluminx.github.io/ziyang-jia/)
+
 Education
 ======
 * Ph.D. in Finance (RMI track), University of Iowa, 2022-2027 (expected)
